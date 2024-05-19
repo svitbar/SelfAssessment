@@ -1,20 +1,20 @@
 ## Architecture
 
 - Application structure
-  - Modularity ~
-  - Components *
-  - Directories *
+  - Modularity: 👂 heard
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
   - GRASP
-  - SOLID *
+  - SOLID: 🖐️ used
   - GoF patterns
   - CQS
-  - Leaking abstractions ~
-  - Multiparadigm code *
-  - Contract programming *
-  - Platform-agnostic +
+  - Leaking abstractions: 👂 heard
+  - Multiparadigm code: 🖐️ used
+  - Contract programming: 🖐️ used
+  - Platform-agnostic: 🎓 known
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage *
+  - Code coverage: 🖐️ used
   - Cohesion
   - Coupling
   - Cyclomatic complexity
@@ -24,33 +24,33 @@
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer +
-  - Domain-specific language (DSL) ~
+  - Isolation between layer: 🎓 known
+  - Domain-specific language (DSL): 👂 heard
   - System vs applied code
-  - Multilayer approach +
+  - Multilayer approach: 🎓 known
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming ~
-  - Inversion of control (IoC) *
-  - Dependency injection (DI) *
-  - Clean architecture +
+  - Metaprogramming: 👂 heard
+  - Inversion of control (IoC): 🖐️ used
+  - Dependency injection (DI): 🖐️ used
+  - Clean architecture: 🎓 known
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
-  - Message Queue (MQ) +
+  - Message Queue (MQ): 🎓 known
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram *
+  - Entity-relationship diagram: 🖐️ used
   - IDEF1X
-  - UML +
+  - UML: 🎓 known
   - Work breakdown structure
-  - Budget estimation *
-  - Distributed systems +
+  - Budget estimation: 🖐️ used
+  - Distributed systems: 🎓 known
   - High-intensive computing
-  - Load balancing +
+  - Load balancing: 🎓 known
   - Gateways
   - On-premises
   - IaaS
@@ -59,7 +59,7 @@
   - FaaS clouds
   - Serverless
   - Vendor lock-in
-  - Bus factor ~
+  - Bus factor: 👂 heard
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
@@ -72,23 +72,23 @@
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code ~
-  - No-code ~
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
   - Metric
   - Metric abuse
   - ACID
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs *
-  - Enterprise strategy ~
+  - Understanding business needs: 🖐️ used
+  - Enterprise strategy: 👂 heard
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope +
+  - Project scope: 🎓 known
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices ~
+  - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
   - Data warehouse

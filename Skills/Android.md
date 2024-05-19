@@ -1,42 +1,42 @@
 ## Android
 
-- Android Basics 
-  - Android Studio *
-  - Android project structure *
-  - Activity lifecycle *
-  - Fragments *
-  - Intents *
-  - Views and ViewGroups *
-  - Layout: LinearLayout *
-  - Layout: RelativeLayout *
-  - Layout: ConstraintLayout *
-  - Layout: FrameLayout *
-  - Layout: TableLayout +
-  - Resources: res/values *
-  - Resources: strings.xml *
-  - Resources: colors.xml *
-  - Resources: styles.xml +
-  - R class *
+- Android Basics
+  - Android Studio: 🖐️ used
+  - Android project structure: 🖐️ used
+  - Activity lifecycle: 🖐️ used
+  - Fragments: 🖐️ used
+  - Intents: 🖐️ used
+  - Views and ViewGroups: 🖐️ used
+  - Layout: LinearLayout: 🖐️ used
+  - Layout: RelativeLayout: 🖐️ used
+  - Layout: ConstraintLayout: 🖐️ used
+  - Layout: FrameLayout: 🖐️ used
+  - Layout: TableLayout: 🎓 known
+  - Resources: res/values: 🖐️ used
+  - Resources: strings.xml: 🖐️ used
+  - Resources: colors.xml: 🖐️ used
+  - Resources: styles.xml: 🎓 known
+  - R class: 🖐️ used
 - User Interface (UI)
-  - XML layout files *
-  - TextView *
-  - EditText *
-  - Button *
-  - ImageView *
-  - RecyclerView *
-  - ListView +
-  - ScrollView *
-  - CardView *
-  - AppBar *
-  - Custom views ~
+  - XML layout files: 🖐️ used
+  - TextView: 🖐️ used
+  - EditText: 🖐️ used
+  - Button: 🖐️ used
+  - ImageView: 🖐️ used
+  - RecyclerView: 🖐️ used
+  - ListView: 🎓 known
+  - ScrollView: 🖐️ used
+  - CardView: 🖐️ used
+  - AppBar: 🖐️ used
+  - Custom views: 👂 heard
   - Material Design components
-  - Themes and styles ~
-  - Animations and transitions ~
+  - Themes and styles: 👂 heard
+  - Animations and transitions: 👂 heard
 - Intents and Broadcast Receivers
-  - Explicit intents *
-  - Implicit intents ~
-  - Passing data between activities *
-  - Starting activities for result *
+  - Explicit intents: 🖐️ used
+  - Implicit intents: 👂 heard
+  - Passing data between activities: 🖐️ used
+  - Starting activities for result: 🖐️ used
   - LocalBroadcastManager
   - System broadcasts
   - Custom broadcasts
@@ -44,7 +44,7 @@
   - SharedPreferences
   - Internal storage
   - External storage
-  - SQLite database *
+  - SQLite database: 🖐️ used
   - Room persistence library
   - Content providers
 - Networking
@@ -54,9 +54,9 @@
   - JSON parsing
   - JSONObject
   - Gson
-  - AsyncTask ~
-  - Threading ~
-  - Background services ~
+  - AsyncTask: 👂 heard
+  - Threading: 👂 heard
+  - Background services: 👂 heard
 - Services and Background Tasks
   - Service lifecycle
   - IntentService
@@ -76,8 +76,8 @@
   - Camera API
   - ExoPlayer
 - Location and Maps
-  - Google Maps API ~
-  - Location services ~
+  - Google Maps API: 👂 heard
+  - Location services: 👂 heard
   - Geocoding and reverse geocoding
   - Geofencing
 - Notifications
@@ -95,18 +95,17 @@
   - Firebase Crashlytics
   - Firebase Storage
 - Testing
-  - Unit testing with JUnit ~
+  - Unit testing with JUnit: 👂 heard
   - UI testing with Espresso
-  - Mocking with Mockito ~
+  - Mocking with Mockito: 👂 heard
   - Robolectric
 - Jetpack Libraries
-  - ViewModel +
-  - LiveData *
-  - Data Binding *
-  - Navigation component +
+  - ViewModel: 🎓 known
+  - LiveData: 🖐️ used
+  - Data Binding: 🖐️ used
+  - Navigation component: 🎓 known
   - Paging library
   - Room
-  - WorkManager
   - CameraX
 - Advanced Topics
   - Architecture components: MVVM
@@ -114,6 +113,6 @@
   - Architecture components: MVP
   - ProGuard and R8
   - Performance optimization
-  - App bundles ~
+  - App bundles: 👂 heard
   - Custom ROMs and rooting
-  - Dependency Injection ~
+  - Dependency Injection: 👂 heard
