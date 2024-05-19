@@ -1,0 +1,182 @@
+## Kotlin
+
+- Language
+  - Variables !
+  - Primitive types !
+  - Unsigned types *
+  - Nullable types *
+  - Non-nullable types *
+  - `String` !
+  - `Any` *
+  - `Unit` *
+  - Mapping to Java types *
+  - Arithmetic operators *
+  - Boolean operators *
+  - Complex conditions *
+  - Conditional operators *
+  - Elvis operator `?:` *
+  - Safe call opearator `?.` *
+  - `for` loop !
+  - `while...do` loop !
+  - `do...while` loop !
+  - `forEach{...}` !
+  - `forEachInIndexed{...}` +
+  - `Arrays<T>` !
+  - Primitive arrays !
+  - Log & Debug: `stdout` +
+  - Log & Debug: `stderr` +
+  - Log & Debug: Breakpoints *
+  - Log & Debug: Step-by-step running *
+  - Exceptions *
+  - Errors *
+  - `try...catch` *
+  - Nothing type
+  - `List` *
+  - `MutableList` *
+  - `Set` *
+  - `MutableSet` *
+  - `Map` *
+  - `MutableMap` *
+  - `Collection` *
+  - `Iterable` *
+  - `Ranges` +
+  - `Sequences` +
+  - Functions: Arguments !
+  - Functions: Return type !
+  - Functions: Function signature !
+  - Functions: `varargs` !
+  - Functions: Function overloading !
+  - Functions: Extension functions ~
+  - Functions: Inline functions *
+  - Functions: Infix functions ~
+  - Recursion: Recursive functions +
+  - Recursion: StackOverFlowError *
+  - Recursion: `Tailrec` functions
+  - Constructors !
+  - Initializers !
+  - Properties !
+  - Getters & Setters !
+  - Methods !
+  - `this` !
+  - Objects !
+  - Companion objects *
+  - References *
+  - Muttable & immutable classes +
+  - Enum classes *
+  - Class `Any` +
+  - Operator overloading +
+  - Data classes *
+  - Packages *
+  - Type aliases ~
+  - Import aliases +
+  - Value classes ~
+- OOP
+  - Abstract classes *
+  - Abstract method *
+  - Abstract property *
+  - Interface *
+  - Closed class *
+  - Open class  *
+  - Open method *
+  - Open property *
+  - Nested class *
+  - Inner class *
+  - `public` *
+  - `protected` *
+  - `internal` *
+  - `private` *
+  - Sealed class
+  - Sealed interface
+  - Unsafe class operator `as` *
+  - Safe class operator `as?` *
+  - Type check operators `is` & `!is` ~
+  - Smart cast ~
+  - Delegation: `lazy` *
+  - Delegation: `observable` *
+  - Delegation: `vetoable`
+  - Delegate to other property
+  - Delegate to map collection
+  - Custom delegates
+  - Delegation pattern
+- Generics
+  - Class with type arguments *
+  - Method with type arguments *
+  - Type erasure *
+  - Upper bound *
+  - Multiple bounds `where`
+  - Covariant type args `out`
+  - Covariant type args `in`
+  - Input projection `in`
+  - Output ptojection `out`
+  - Star-projection
+  - Reified functions
+- Functional programming
+  - Lambda declaration *
+  - Lambda instantiation +
+  - Invoking lambdas +
+  - Functional Interfaces +
+  - Callable references +
+  - `noinline`
+  - `crossinline`
+  - Scoped functions: `with`
+  - Scoped functions: `let` *
+  - Scoped functions: `run`
+  - Scoped functions: `apply` *
+  - Scoped functions: `also`
+  - Scoped functions: `takeif`
+  - Custom scope functions
+- Input\Output Streams
+  - `readLine` !
+  - `readIn`
+  - `readInOrNull`
+  - `Scanner` !
+  - `ByteArrayOutputStream` !
+  - `ByteArrayInputStream` !
+  - `DataOutputStream` !
+  - `DataInputStream` !
+  - `use{...}` function !
+  - `OutputStreamWriter` !
+  - `InputStreamReader` !
+  - Serialization !
+  - `BufferedOutputStream` !
+  - `BufferedInputStream` !
+  - `BufferedReader` !
+  - `BufferedWriter` !
+  - `File` !
+  - `RandomAccessFile` !
+  - `FileTreeWalk` +
+  - `FileInputStream` !
+  - `FileOutputStream` !
+- Async programming
+  - `Thread` !
+  - `ExecutorServices` ~
+  - Synchronizations !
+  - Atomic types ~
+  - Atomic operations ~
+  - Dead locks *
+  - Race conditions ~
+  - Live locks
+  - Starvation +
+  - Synchronized collections
+  - `runBlocking`
+  - `launch` +
+  - `async` *
+  - `suspend` functions *
+  - Structures concurrency
+  - Coroutine Context
+  - `Dispatcher` ~
+  - `Job` ~
+  - `Name`
+  - `CorutineExceptionHandler` ~
+  - Coroutine Scope ~
+  - Cancellation & Timeouts
+  - `withContext{...}` function
+  - `suspendCancellableCoroutine{...}` function
+  - Cold & Hot Flows
+  - Intermidiate & terminal operators
+  - `flowOf`
+  - `flow{...}`
+  - `callbackFlow{...}`
+  - Flow cancellation
+  - Combining multiple flows
+  - `StateFlow` & `SharedFlow` 

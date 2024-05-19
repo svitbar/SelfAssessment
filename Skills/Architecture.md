@@ -1,20 +1,20 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
+  - Modularity ~
+  - Components *
+  - Directories *
   - GRASP
-  - SOLID
+  - SOLID *
   - GoF patterns
   - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
+  - Leaking abstractions ~
+  - Multiparadigm code *
+  - Contract programming *
+  - Platform-agnostic +
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
+  - Code coverage *
   - Cohesion
   - Coupling
   - Cyclomatic complexity
@@ -24,33 +24,33 @@
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
+  - Isolation between layer +
+  - Domain-specific language (DSL) ~
   - System vs applied code
-  - Multilayer approach
+  - Multilayer approach +
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
+  - Metaprogramming ~
+  - Inversion of control (IoC) *
+  - Dependency injection (DI) *
+  - Clean architecture +
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ) +
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram
+  - Entity-relationship diagram *
   - IDEF1X
-  - UML
+  - UML +
   - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
+  - Budget estimation *
+  - Distributed systems +
   - High-intensive computing
-  - Load balancing
+  - Load balancing +
   - Gateways
   - On-premises
   - IaaS
@@ -59,7 +59,7 @@
   - FaaS clouds
   - Serverless
   - Vendor lock-in
-  - Bus factor
+  - Bus factor ~
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
@@ -72,23 +72,23 @@
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code
-  - No-code
+  - Low-code ~
+  - No-code ~
   - Metric
   - Metric abuse
   - ACID
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
+  - Understanding business needs *
+  - Enterprise strategy ~
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope +
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices ~
   - Process choreography
   - Service orchestration
   - Data warehouse

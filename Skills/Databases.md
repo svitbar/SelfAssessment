@@ -3,11 +3,11 @@
 - Theory and concepts
   - Data types
   - Performance tuning
-  - Migrations
+  - Migrations +
   - Schema versioning
   - Backup and recovery
   - Database scalability
-  - Relational databases
+  - Relational databases *
   - Key-value store
   - Tuple store
   - Graph databases
@@ -15,54 +15,54 @@
   - Column databases
   - Navigational databases
   - Hierarchical databases
-  - In-memory databases
+  - In-memory databases ~
   - Inverted index
   - Data control language (DCL)
-  - Data definition language (DDL)
+  - Data definition language (DDL) ~
   - Data manipulation language (DML)
-  - Data query language (DQL)
+  - Data query language (DQL) ~
 - Relational
-  - Entity-Relationship Diagram
-  - Normal forms
-  - Indexing
-  - Primary keys
-  - Foreign keys
-  - Transactions
+  - Entity-Relationship Diagram *
+  - Normal forms ~
+  - Indexing ~
+  - Primary keys *
+  - Foreign keys *
+  - Transactions ~
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions ~
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
-  - `LIMIT`
-  - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
-  - `HAVING`
-  - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
+  - `SELECT` *
+  - `INSERT` *
+  - `UPDATE` *
+  - `DELETE` *
+  - `LIMIT` ~
+  - `OFFSET` ~
+  - `ORDER BY` ~
+  - `GROUP BY` ~
+  - `HAVING` ~
+  - `EXISTS` ~
+  - `JOIN` *
+  - `INNER JOIN` +
+  - `LEFT JOIN` +
+  - `RIGHT JOIN` +
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
-  - `IN`
-  - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
+  - `WHERE` *
+  - `LIKE` +
+  - `IN` *
+  - `BETWEEN` +
+  - `CREATE TABLE` *
+  - `ALTER TABLE` *
+  - `DROP TABLE` *
+  - `PRIMARY KEY` *
+  - `FOREIGN KEY` *
   - `CHECK`
-  - `DEFAULT`
+  - `DEFAULT` +
   - `INDEX`
   - `UNIQUE`
   - `GRANT`
@@ -70,18 +70,18 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
-  - Oracle
-  - MySQL
+  - PostgreSQL *
+  - Oracle ~
+  - MySQL *
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB ~
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite *
   - DynamoDB
   - Firebase
 - Data engineering

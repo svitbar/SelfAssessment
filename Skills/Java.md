@@ -1,0 +1,120 @@
+## Java
+
+- Code basics
+  - Variables !
+  - Primitive types !
+  - `String` !
+  - `Object` !
+  - Arithmetic operators !
+  - Boolean operators !
+  - Complex conditions !
+  - `if/else` !
+  - `switch` !
+  - Arrays !
+  - `for` loop !
+  - `while` loop !
+  - `do ... while` loop !
+  - foreach loop !
+  - `try/catch` !
+  - Checked exceptions !
+  - Unchecked exceptions !
+  - Errors +
+  - `List` !
+  - `Set` !
+  - `Map` !
+  - `Collection`, `Iterable` !
+- Methods
+  - Arguments !
+  - Return type !
+  - Method signature !
+  - Method overloading !
+  - `varargs` !
+- Classes and objects
+  - Properties !
+  - Methods !
+  - `static` !
+  - Constructors !
+  - `final` !
+  - `this` !
+  - Initializer !
+  - Mutable and immutable objects *
+- Class `Object`
+  - `toString()` !
+  - `equals(), hashcode()` !
+- Object-Oriented Programming (OOP)
+  - Abstraction !
+  - Encapsulation !
+  - Inheritance !
+  - Polymorphism !
+  - Abstract class !
+  - Abstract method !
+  - Interface !
+  - `final` class +
+  - `final` method !
+  - `final` property !
+  - Nested class !
+  - Inner class !
+  - `public` !
+  - `private` !
+  - `protected` !
+  - package-private !
+  - Cast operator !
+  - `instanceof` !
+- Single Topics
+  - Recursion +
+  - Packages !
+  - Enum classes +
+- Generics
+  - Class with type arguments !
+  - Method with type arguments !
+  - Bounded type arguments !
+  - Type erasure !
+  - Type inference !
+  - Diamond operator `<>` !
+  - Unbounded wildcard !
+  - Upper-bounded wildcard !
+  - Lower-bounded wildcard !
+- Functional programming
+  - Functional interfaces !
+  - Lambdas !
+  - Method references !
+  - Java Stream API !
+- Input/Output
+  - `InputStream` and `OutputStream` !
+  - `try/catch` with resource !
+  - `Scanner` !
+  - `ByteArrayOutputStream` !
+  - `ByteArrayInputStream` !
+  - `DataOutputStream` !
+  - `DataInputStream` !
+  - Readers and Writers !
+  - `OutputStreamWriter` !
+  - `InputStreamReader` !
+  - Serialization !
+  - Working with files !
+  - `BufferedOutputStream` !
+  - `BufferedInputStream` !
+  - `BufferedWriter` !
+  - `BufferedReader` !
+  - `File` !
+  - `RandomAccessFile` !
+  - `FileInputStream` !
+  - `FileOutputStream` !
+- Multithreading
+  - `Thread` !
+  - `Runnable` !
+  - `Semaphore` ~
+  - `Lock` *
+  - Atomic types and operations ~
+  - Monitors +
+  - `synchronized` methods +
+  - `synchronized` blocks +
+  - Synchronized collections ~
+  - Dead locks, race conditions !
+- Date/Time API
+- Spring Framework
+  - Spring Core *
+  - Spring Boot !
+  - Spring MVC !
+  - Spring Data *
+  - Spring Security ~
