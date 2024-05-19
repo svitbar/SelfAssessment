@@ -3,42 +3,42 @@
 - Language
   - Variables: 🙋 explained
   - Primitive types: 🙋 explained
-  - Unsigned types !
-  - Nullable types !
-  - Non-nullable types !
+  - Unsigned types: 🙋 explained
+  - Nullable types: 🙋 explained
+  - Non-nullable types: 🙋 explained
   - `String`: 🙋 explained
-  - `Any` !
-  - `Unit` !
+  - `Any`: 🙋 explained
+  - `Unit`: 🙋 explained
   - Mapping to Java types: 🖐️ used
-  - Arithmetic operators !
-  - Boolean operators !
-  - Complex conditions !
-  - Conditional operators !
-  - Elvis operator `?:` !
-  - Safe call opearator `?.` !
+  - Arithmetic operators: 🙋 explained
+  - Boolean operators: 🙋 explained
+  - Complex conditions: 🙋 explained
+  - Conditional operators: 🙋 explained
+  - Elvis operator `?:`: 🙋 explained
+  - Safe call opearator `?.`: 🙋 explained
   - `for` loop: 🙋 explained
   - `while...do` loop: 🙋 explained
   - `do...while` loop: 🙋 explained
   - `forEach{...}`: 🙋 explained
-  - `forEachInIndexed{...}` *
+  - `forEachInIndexed{...}`: 🖐️ used
   - `Arrays<T>`: 🙋 explained
   - Primitive arrays: 🙋 explained
-  - Log & Debug: `stdout` *
-  - Log & Debug: `stderr` *
+  - Log & Debug: `stdout`: 🖐️ used
+  - Log & Debug: `stderr`: 🖐️ used
   - Log & Debug: Breakpoints: 🖐️ used
   - Log & Debug: Step-by-step running: 🖐️ used
-  - Exceptions !
+  - Exceptions: 🙋 explained
   - Errors: 🖐️ used
-  - `try...catch` !
-  - Nothing type ~
-  - `List` !
-  - `MutableList` !
-  - `Set` !
-  - `MutableSet` !
-  - `Map` !
-  - `MutableMap` !
-  - `Collection` !
-  - `Iterable` !
+  - `try...catch`: 🙋 explained
+  - Nothing type: 👂 heard
+  - `List`: 🙋 explained
+  - `MutableList`: 🙋 explained
+  - `Set`: 🙋 explained
+  - `MutableSet`: 🙋 explained
+  - `Map`: 🙋 explained
+  - `MutableMap`: 🙋 explained
+  - `Collection`: 🙋 explained
+  - `Iterable`: 🙋 explained
   - `Ranges`: 🎓 known
   - `Sequences`: 🎓 known
   - Functions: Arguments: 🙋 explained
@@ -49,7 +49,7 @@
   - Functions: Extension functions: 👂 heard
   - Functions: Inline functions: 🖐️ used
   - Functions: Infix functions: 👂 heard
-  - Recursion: Recursive functions *
+  - Recursion: Recursive functions: 🖐️ used
   - Recursion: StackOverFlowError: 🖐️ used
   - Recursion: `Tailrec` functions
   - Constructors: 🙋 explained
@@ -63,32 +63,32 @@
   - References: 🖐️ used
   - Muttable & immutable classes: 🎓 known
   - Enum classes: 🖐️ used
-  - Class `Any` *
-  - Operator overloading *
+  - Class `Any`: 🖐️ used
+  - Operator overloading: 🖐️ used
   - Data classes: 🖐️ used
-  - Packages *
+  - Packages: 🖐️ used
   - Type aliases: 👂 heard
   - Import aliases: 🎓 known
   - Value classes: 👂 heard
 - OOP
-  - Abstract classes !
-  - Abstract method !
-  - Abstract property !
-  - Interface !
+  - Abstract classes: 🙋 explained
+  - Abstract method: 🙋 explained
+  - Abstract property: 🙋 explained
+  - Interface: 🙋 explained
   - Closed class: 🖐️ used
-  - Open class !
-  - Open method !
-  - Open property !
-  - Nested class !
-  - Inner class !
-  - `public` !
-  - `protected` !
+  - Open class: 🙋 explained
+  - Open method: 🙋 explained
+  - Open property: 🙋 explained
+  - Nested class: 🙋 explained
+  - Inner class: 🙋 explained
+  - `public`: 🙋 explained
+  - `protected`: 🙋 explained
   - `internal`: 🖐️ used
-  - `private` !
-  - Sealed class 
+  - `private`: 🙋 explained
+  - Sealed class
   - Sealed interface
   - Unsafe class operator `as`: 🖐️ used
-  - Safe class operator `as?` !
+  - Safe class operator `as?`: 🙋 explained
   - Type check operators `is` & `!is`: 👂 heard
   - Smart cast: 👂 heard
   - Delegation: `lazy`: 🖐️ used
@@ -113,9 +113,9 @@
 - Functional programming
   - Lambda declaration: 🖐️ used
   - Lambda instantiation: 🎓 known
-  - Invoking lambdas *
-  - Functional Interfaces *
-  - Callable references *
+  - Invoking lambdas: 🖐️ used
+  - Functional Interfaces: 🖐️ used
+  - Callable references: 🖐️ used
   - `noinline`
   - `crossinline`
   - Scoped functions: `with`
@@ -127,8 +127,8 @@
   - Custom scope functions
 - Input\Output Streams
   - `readLine`: 🙋 explained
-  - `readIn` !
-  - `readInOrNull` !
+  - `readIn`: 🙋 explained
+  - `readInOrNull`: 🙋 explained
   - `Scanner`: 🙋 explained
   - `ByteArrayOutputStream`: 🙋 explained
   - `ByteArrayInputStream`: 🙋 explained
@@ -151,13 +151,13 @@
   - `Thread`: 🙋 explained
   - `ExecutorServices`: 👂 heard
   - Synchronizations: 🙋 explained
-  - Atomic types *
-  - Atomic operations *
+  - Atomic types: 🖐️ used
+  - Atomic operations: 🖐️ used
   - Dead locks: 🖐️ used
   - Race conditions: 👂 heard
   - Live locks
   - Starvation: 🎓 known
-  - Synchronized collections +
+  - Synchronized collections: 🎓 known
   - `runBlocking`
   - `launch`: 🎓 known
   - `async`: 🖐️ used
@@ -168,7 +168,7 @@
   - `Job`: 👂 heard
   - `Name`
   - `CorutineExceptionHandler`: 👂 heard
-  - Coroutine Scope +
+  - Coroutine Scope: 🎓 known
   - Cancellation & Timeouts
   - `withContext{...}` function
   - `suspendCancellableCoroutine{...}` function

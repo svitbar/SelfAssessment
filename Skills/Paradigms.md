@@ -8,18 +8,18 @@
   - Functional programming: 🖐️ used
   - Prototype-based programming
   - Object-oriented programming: 🙋 explained
-  - Object-based programming +
+  - Object-based programming: 🎓 known
   - Generic programming: 🖐️ used
-  - Concurrent computing ~
+  - Concurrent computing: 👂 heard
   - Asynchronous programming: 🎓 known
   - Parallel programming: 🎓 known
-  - Reactive programming ~
+  - Reactive programming: 👂 heard
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages ~
+  - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 🎓 known
-  - Metaprogramming ~
-  - Actor model ~
+  - Metaprogramming: 👂 heard
+  - Actor model: 👂 heard
   - Lambda calculus
   - Black box
   - Information hiding
@@ -47,7 +47,7 @@
   - Instance: 🙋 explained
   - Introspection
   - Reflection
-  - The diamond problem ~
+  - The diamond problem: 👂 heard
 - GRASP
   - Information expert
   - Creator
@@ -62,7 +62,7 @@
   - Open–closed principle (OCP): 🖐️ used
   - Liskov substitution principle (LSP): 🖐️ used
   - Interface segregation principle (ISP): 🖐️ used
-  - Dependency inversion principle (DIP) !
+  - Dependency inversion principle (DIP): 🙋 explained
 - Patterns
   - Singleton: 🙋 explained
   - Factory Method: 🙋 explained

@@ -37,7 +37,7 @@
   - `final`: 🙋 explained
   - `this`: 🙋 explained
   - Initializer: 🙋 explained
-  - Mutable and immutable objects !
+  - Mutable and immutable objects: 🙋 explained
 - Class `Object`
   - `toString()`: 🙋 explained
   - `equals(), hashcode()`: 🙋 explained
@@ -61,9 +61,9 @@
   - Cast operator: 🙋 explained
   - `instanceof`: 🙋 explained
 - Single Topics
-  - Recursion *
+  - Recursion: 🖐️ used
   - Packages: 🙋 explained
-  - Enum classes *
+  - Enum classes: 🖐️ used
 - Generics
   - Class with type arguments: 🙋 explained
   - Method with type arguments: 🙋 explained
@@ -103,12 +103,12 @@
 - Multithreading
   - `Thread`: 🙋 explained
   - `Runnable`: 🙋 explained
-  - `Semaphore` !
-  - `Lock` !
-  - Atomic types and operations *
-  - Monitors !
-  - `synchronized` methods !
-  - `synchronized` blocks !
+  - `Semaphore`: 🙋 explained
+  - `Lock`: 🙋 explained
+  - Atomic types and operations: 🖐️ used
+  - Monitors: 🙋 explained
+  - `synchronized` methods: 🙋 explained
+  - `synchronized` blocks: 🙋 explained
   - Synchronized collections: 👂 heard
   - Dead locks, race conditions: 🙋 explained
 - Date/Time API
