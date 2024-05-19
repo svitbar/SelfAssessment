@@ -1,0 +1,120 @@
+## Java
+
+- Code basics
+  - Variables: 🙋 explained
+  - Primitive types: 🙋 explained
+  - `String`: 🙋 explained
+  - `Object`: 🙋 explained
+  - Arithmetic operators: 🙋 explained
+  - Boolean operators: 🙋 explained
+  - Complex conditions: 🙋 explained
+  - `if/else`: 🙋 explained
+  - `switch`: 🙋 explained
+  - Arrays: 🙋 explained
+  - `for` loop: 🙋 explained
+  - `while` loop: 🙋 explained
+  - `do ... while` loop: 🙋 explained
+  - foreach loop: 🙋 explained
+  - `try/catch`: 🙋 explained
+  - Checked exceptions: 🙋 explained
+  - Unchecked exceptions: 🙋 explained
+  - Errors: 🎓 known
+  - `List`: 🙋 explained
+  - `Set`: 🙋 explained
+  - `Map`: 🙋 explained
+  - `Collection`, `Iterable`: 🙋 explained
+- Methods
+  - Arguments: 🙋 explained
+  - Return type: 🙋 explained
+  - Method signature: 🙋 explained
+  - Method overloading: 🙋 explained
+  - `varargs`: 🙋 explained
+- Classes and objects
+  - Properties: 🙋 explained
+  - Methods: 🙋 explained
+  - `static`: 🙋 explained
+  - Constructors: 🙋 explained
+  - `final`: 🙋 explained
+  - `this`: 🙋 explained
+  - Initializer: 🙋 explained
+  - Mutable and immutable objects: 🖐️ used
+- Class `Object`
+  - `toString()`: 🙋 explained
+  - `equals(), hashcode()`: 🙋 explained
+- Object-Oriented Programming (OOP)
+  - Abstraction: 🙋 explained
+  - Encapsulation: 🙋 explained
+  - Inheritance: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🙋 explained
+  - Abstract method: 🙋 explained
+  - Interface: 🙋 explained
+  - `final` class: 🎓 known
+  - `final` method: 🙋 explained
+  - `final` property: 🙋 explained
+  - Nested class: 🙋 explained
+  - Inner class: 🙋 explained
+  - `public`: 🙋 explained
+  - `private`: 🙋 explained
+  - `protected`: 🙋 explained
+  - package-private: 🙋 explained
+  - Cast operator: 🙋 explained
+  - `instanceof`: 🙋 explained
+- Single Topics
+  - Recursion: 🎓 known
+  - Packages: 🙋 explained
+  - Enum classes: 🎓 known
+- Generics
+  - Class with type arguments: 🙋 explained
+  - Method with type arguments: 🙋 explained
+  - Bounded type arguments: 🙋 explained
+  - Type erasure: 🙋 explained
+  - Type inference: 🙋 explained
+  - Diamond operator `<>`: 🙋 explained
+  - Unbounded wildcard: 🙋 explained
+  - Upper-bounded wildcard: 🙋 explained
+  - Lower-bounded wildcard: 🙋 explained
+- Functional programming
+  - Functional interfaces: 🙋 explained
+  - Lambdas: 🙋 explained
+  - Method references: 🙋 explained
+  - Java Stream API: 🙋 explained
+- Input/Output
+  - `InputStream` and `OutputStream`: 🙋 explained
+  - `try/catch` with resource: 🙋 explained
+  - `Scanner`: 🙋 explained
+  - `ByteArrayOutputStream`: 🙋 explained
+  - `ByteArrayInputStream`: 🙋 explained
+  - `DataOutputStream`: 🙋 explained
+  - `DataInputStream`: 🙋 explained
+  - Readers and Writers: 🙋 explained
+  - `OutputStreamWriter`: 🙋 explained
+  - `InputStreamReader`: 🙋 explained
+  - Serialization: 🙋 explained
+  - Working with files: 🙋 explained
+  - `BufferedOutputStream`: 🙋 explained
+  - `BufferedInputStream`: 🙋 explained
+  - `BufferedWriter`: 🙋 explained
+  - `BufferedReader`: 🙋 explained
+  - `File`: 🙋 explained
+  - `RandomAccessFile`: 🙋 explained
+  - `FileInputStream`: 🙋 explained
+  - `FileOutputStream`: 🙋 explained
+- Multithreading
+  - `Thread`: 🙋 explained
+  - `Runnable`: 🙋 explained
+  - `Semaphore`: 👂 heard
+  - `Lock`: 🖐️ used
+  - Atomic types and operations: 👂 heard
+  - Monitors: 🎓 known
+  - `synchronized` methods: 🎓 known
+  - `synchronized` blocks: 🎓 known
+  - Synchronized collections: 👂 heard
+  - Dead locks, race conditions: 🙋 explained
+- Date/Time API
+- Spring Framework
+  - Spring Core: 🖐️ used
+  - Spring Boot: 🙋 explained
+  - Spring MVC: 🙋 explained
+  - Spring Data: 🖐️ used
+  - Spring Security: 👂 heard

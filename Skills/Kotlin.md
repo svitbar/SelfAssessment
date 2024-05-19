@@ -1,0 +1,182 @@
+## Kotlin
+
+- Language
+  - Variables: 🙋 explained
+  - Primitive types: 🙋 explained
+  - Unsigned types: 🖐️ used
+  - Nullable types: 🖐️ used
+  - Non-nullable types: 🖐️ used
+  - `String`: 🙋 explained
+  - `Any`: 🖐️ used
+  - `Unit`: 🖐️ used
+  - Mapping to Java types: 🖐️ used
+  - Arithmetic operators: 🖐️ used
+  - Boolean operators: 🖐️ used
+  - Complex conditions: 🖐️ used
+  - Conditional operators: 🖐️ used
+  - Elvis operator `?:`: 🖐️ used
+  - Safe call opearator `?.`: 🖐️ used
+  - `for` loop: 🙋 explained
+  - `while...do` loop: 🙋 explained
+  - `do...while` loop: 🙋 explained
+  - `forEach{...}`: 🙋 explained
+  - `forEachInIndexed{...}`: 🎓 known
+  - `Arrays<T>`: 🙋 explained
+  - Primitive arrays: 🙋 explained
+  - Log & Debug: `stdout`: 🎓 known
+  - Log & Debug: `stderr`: 🎓 known
+  - Log & Debug: Breakpoints: 🖐️ used
+  - Log & Debug: Step-by-step running: 🖐️ used
+  - Exceptions: 🖐️ used
+  - Errors: 🖐️ used
+  - `try...catch`: 🖐️ used
+  - Nothing type
+  - `List`: 🖐️ used
+  - `MutableList`: 🖐️ used
+  - `Set`: 🖐️ used
+  - `MutableSet`: 🖐️ used
+  - `Map`: 🖐️ used
+  - `MutableMap`: 🖐️ used
+  - `Collection`: 🖐️ used
+  - `Iterable`: 🖐️ used
+  - `Ranges`: 🎓 known
+  - `Sequences`: 🎓 known
+  - Functions: Arguments: 🙋 explained
+  - Functions: Return type: 🙋 explained
+  - Functions: Function signature: 🙋 explained
+  - Functions: `varargs`: 🙋 explained
+  - Functions: Function overloading: 🙋 explained
+  - Functions: Extension functions: 👂 heard
+  - Functions: Inline functions: 🖐️ used
+  - Functions: Infix functions: 👂 heard
+  - Recursion: Recursive functions: 🎓 known
+  - Recursion: StackOverFlowError: 🖐️ used
+  - Recursion: `Tailrec` functions
+  - Constructors: 🙋 explained
+  - Initializers: 🙋 explained
+  - Properties: 🙋 explained
+  - Getters & Setters: 🙋 explained
+  - Methods: 🙋 explained
+  - `this`: 🙋 explained
+  - Objects: 🙋 explained
+  - Companion objects: 🖐️ used
+  - References: 🖐️ used
+  - Muttable & immutable classes: 🎓 known
+  - Enum classes: 🖐️ used
+  - Class `Any`: 🎓 known
+  - Operator overloading: 🎓 known
+  - Data classes: 🖐️ used
+  - Packages: 🖐️ used
+  - Type aliases: 👂 heard
+  - Import aliases: 🎓 known
+  - Value classes: 👂 heard
+- OOP
+  - Abstract classes: 🖐️ used
+  - Abstract method: 🖐️ used
+  - Abstract property: 🖐️ used
+  - Interface: 🖐️ used
+  - Closed class: 🖐️ used
+  - Open class: 🖐️ used
+  - Open method: 🖐️ used
+  - Open property: 🖐️ used
+  - Nested class: 🖐️ used
+  - Inner class: 🖐️ used
+  - `public`: 🖐️ used
+  - `protected`: 🖐️ used
+  - `internal`: 🖐️ used
+  - `private`: 🖐️ used
+  - Sealed class
+  - Sealed interface
+  - Unsafe class operator `as`: 🖐️ used
+  - Safe class operator `as?`: 🖐️ used
+  - Type check operators `is` & `!is`: 👂 heard
+  - Smart cast: 👂 heard
+  - Delegation: `lazy`: 🖐️ used
+  - Delegation: `observable`: 🖐️ used
+  - Delegation: `vetoable`
+  - Delegate to other property
+  - Delegate to map collection
+  - Custom delegates
+  - Delegation pattern
+- Generics
+  - Class with type arguments: 🖐️ used
+  - Method with type arguments: 🖐️ used
+  - Type erasure: 🖐️ used
+  - Upper bound: 🖐️ used
+  - Multiple bounds `where`
+  - Covariant type args `out`
+  - Covariant type args `in`
+  - Input projection `in`
+  - Output ptojection `out`
+  - Star-projection
+  - Reified functions
+- Functional programming
+  - Lambda declaration: 🖐️ used
+  - Lambda instantiation: 🎓 known
+  - Invoking lambdas: 🎓 known
+  - Functional Interfaces: 🎓 known
+  - Callable references: 🎓 known
+  - `noinline`
+  - `crossinline`
+  - Scoped functions: `with`
+  - Scoped functions: `let`: 🖐️ used
+  - Scoped functions: `run`
+  - Scoped functions: `apply`: 🖐️ used
+  - Scoped functions: `also`
+  - Scoped functions: `takeif`
+  - Custom scope functions
+- Input\Output Streams
+  - `readLine`: 🙋 explained
+  - `readIn`
+  - `readInOrNull`
+  - `Scanner`: 🙋 explained
+  - `ByteArrayOutputStream`: 🙋 explained
+  - `ByteArrayInputStream`: 🙋 explained
+  - `DataOutputStream`: 🙋 explained
+  - `DataInputStream`: 🙋 explained
+  - `use{...}` function: 🙋 explained
+  - `OutputStreamWriter`: 🙋 explained
+  - `InputStreamReader`: 🙋 explained
+  - Serialization: 🙋 explained
+  - `BufferedOutputStream`: 🙋 explained
+  - `BufferedInputStream`: 🙋 explained
+  - `BufferedReader`: 🙋 explained
+  - `BufferedWriter`: 🙋 explained
+  - `File`: 🙋 explained
+  - `RandomAccessFile`: 🙋 explained
+  - `FileTreeWalk`: 🎓 known
+  - `FileInputStream`: 🙋 explained
+  - `FileOutputStream`: 🙋 explained
+- Async programming
+  - `Thread`: 🙋 explained
+  - `ExecutorServices`: 👂 heard
+  - Synchronizations: 🙋 explained
+  - Atomic types: 👂 heard
+  - Atomic operations: 👂 heard
+  - Dead locks: 🖐️ used
+  - Race conditions: 👂 heard
+  - Live locks
+  - Starvation: 🎓 known
+  - Synchronized collections
+  - `runBlocking`
+  - `launch`: 🎓 known
+  - `async`: 🖐️ used
+  - `suspend` functions: 🖐️ used
+  - Structures concurrency
+  - Coroutine Context
+  - `Dispatcher`: 👂 heard
+  - `Job`: 👂 heard
+  - `Name`
+  - `CorutineExceptionHandler`: 👂 heard
+  - Coroutine Scope: 👂 heard
+  - Cancellation & Timeouts
+  - `withContext{...}` function
+  - `suspendCancellableCoroutine{...}` function
+  - Cold & Hot Flows
+  - Intermidiate & terminal operators
+  - `flowOf`
+  - `flow{...}`
+  - `callbackFlow{...}`
+  - Flow cancellation
+  - Combining multiple flows
+  - `StateFlow` & `SharedFlow`
