@@ -1,0 +1,119 @@
+## Android
+
+- Android Basics 
+  - Android Studio *
+  - Android project structure *
+  - Activity lifecycle *
+  - Fragments *
+  - Intents *
+  - Views and ViewGroups *
+  - Layout: LinearLayout *
+  - Layout: RelativeLayout *
+  - Layout: ConstraintLayout *
+  - Layout: FrameLayout *
+  - Layout: TableLayout +
+  - Resources: res/values *
+  - Resources: strings.xml *
+  - Resources: colors.xml *
+  - Resources: styles.xml +
+  - R class *
+- User Interface (UI)
+  - XML layout files *
+  - TextView *
+  - EditText *
+  - Button *
+  - ImageView *
+  - RecyclerView *
+  - ListView +
+  - ScrollView *
+  - CardView *
+  - AppBar *
+  - Custom views ~
+  - Material Design components
+  - Themes and styles ~
+  - Animations and transitions ~
+- Intents and Broadcast Receivers
+  - Explicit intents *
+  - Implicit intents ~
+  - Passing data between activities *
+  - Starting activities for result *
+  - LocalBroadcastManager
+  - System broadcasts
+  - Custom broadcasts
+- Data Storage
+  - SharedPreferences
+  - Internal storage
+  - External storage
+  - SQLite database *
+  - Room persistence library
+  - Content providers
+- Networking
+  - HttpURLConnection
+  - OkHttp
+  - Retrofit
+  - JSON parsing
+  - JSONObject
+  - Gson
+  - AsyncTask ~
+  - Threading ~
+  - Background services ~
+- Services and Background Tasks
+  - Service lifecycle
+  - IntentService
+  - JobScheduler
+  - WorkManager
+  - BroadcastReceiver
+  - AlarmManager
+  - Foreground services
+- Permissions
+  - Runtime permissions
+  - Permission groups
+  - Checking and requesting permissions
+- Multimedia
+  - Playing audio
+  - Playing video
+  - Recording audio
+  - Camera API
+  - ExoPlayer
+- Location and Maps
+  - Google Maps API ~
+  - Location services ~
+  - Geocoding and reverse geocoding
+  - Geofencing
+- Notifications
+  - Notification channels
+  - Building notifications
+  - Notification actions
+  - Notification styles
+  - Heads-up notifications
+- Firebase Integration
+  - Firebase Authentication
+  - Firebase Realtime Database
+  - Cloud Firestore
+  - Firebase Cloud Messaging
+  - Firebase Analytics
+  - Firebase Crashlytics
+  - Firebase Storage
+- Testing
+  - Unit testing with JUnit ~
+  - UI testing with Espresso
+  - Mocking with Mockito ~
+  - Robolectric
+- Jetpack Libraries
+  - ViewModel +
+  - LiveData *
+  - Data Binding *
+  - Navigation component +
+  - Paging library
+  - Room
+  - WorkManager
+  - CameraX
+- Advanced Topics
+  - Architecture components: MVVM
+  - Architecture components: MVI
+  - Architecture components: MVP
+  - ProGuard and R8
+  - Performance optimization
+  - App bundles ~
+  - Custom ROMs and rooting
+  - Dependency Injection ~
