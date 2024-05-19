@@ -1,18 +1,18 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model: 🎓 known
-  - Modeling: 🎓 known
-  - Subject domain: 👂 heard
+  - Model: 🙋 explained
+  - Modeling: 🙋 explained
+  - Subject domain: 🎓 known
   - Algorithm: 🙋 explained
   - Syntax: 🙋 explained
-  - Semantics: 🖐️ used
+  - Semantics: 🙋 explained
   - Abstraction: 🙋 explained
   - Paradigm: 🙋 explained
   - Programm: 🙋 explained
   - Programming paradigm: 🙋 explained
   - Programming language: 🙋 explained
-  - Contract
+  - Contract: 🖐️ used
   - Module: 🙋 explained
   - Library: 🙋 explained
   - Package: 🙋 explained
@@ -20,7 +20,7 @@
   - Framework: 🙋 explained
   - Platform: 🙋 explained
   - Source code: 🙋 explained
-  - Object code: 👂 heard
+  - Object code: 🖐️ used
   - Machine code: 🙋 explained
   - Microcode
   - Software engineering: 🙋 explained
@@ -45,26 +45,26 @@
   - Method: 🙋 explained
   - Class: 🙋 explained
   - Prototype: 🙋 explained
-  - Event: 🖐️ used
+  - Event: 🙋 explained
   - Type: 🙋 explained
-  - Flag
+  - Flag: 🖐️ used
   - Lexical scope: 🙋 explained
   - Code block: 🙋 explained
   - Conditions: 🙋 explained
   - Loops: 🙋 explained
-  - Assignment
+  - Assignment: 🖐️ used
   - Regular expression: 🙋 explained
   - Interface: 🙋 explained
-  - Namespaces
-  - Call stack
+  - Namespaces: 🎓 known
+  - Call stack: 🙋 explained
   - Naming conventions: 🙋 explained
   - Coding conventions: 🙋 explained
   - Camel case: 🙋 explained
   - Snake case: 🙋 explained
-  - Kebab case: 👂 heard
-  - Trailing commas
+  - Kebab case: 🙋 explained
+  - Trailing commas: 🙋 explained
   - Return early: 🙋 explained
-  - Fail-fast
+  - Fail-fast: 👂 heard
 - Types
   - Primitive types: 🙋 explained
   - Reference types: 🙋 explained
@@ -91,14 +91,14 @@
   - Partial application
   - Currying: 🖐️ used
   - Higher order: 🖐️ used
-  - Recursion: 🖐️ used
+  - Recursion: 🙋 explained
   - Tail call optimisation
-  - Callback: 🖐️ used
+  - Callback: 🙋 explained
   - Listener: 🖐️ used
   - Composition
   - Pipe: 👂 heard
   - Memoize
-  - Wrapper: 👂 heard
+  - Wrapper: 🖐️ used
   - Functor
   - Monad
   - Monoid
@@ -108,7 +108,7 @@
   - Array: 🙋 explained
   - Structure: 🙋 explained
   - Record: 🎓 known
-  - Enum: 🎓 known
+  - Enum: 🖐️ used
   - Instance: 🙋 explained
   - Object: 🙋 explained
   - Collection: 🙋 explained
@@ -124,21 +124,21 @@
   - Tree: 🎓 known
   - Graph: 🎓 known
   - Iterator: 🙋 explained
-  - Mutable state: 🎓 known
-  - Immutable state: 🎓 known
+  - Mutable state: 🙋 explained
+  - Immutable state: 🙋 explained
   - Serialization: 🙋 explained
   - String parsing: 🙋 explained
   - JSON: 🙋 explained
   - JSON5
   - YAML: 🎓 known
 - Networking
-  - DNS: 🖐️ used
+  - DNS: 🙋 explained
   - CDN
   - CORS
-  - IPv4: 🖐️ used
-  - IPv6: 🖐️ used
+  - IPv4: 🙋 explained
+  - IPv6: 🙋 explained
   - NAT: 🖐️ used
-  - URL: 🖐️ used
+  - URL: 🙋 explained
   - URN
   - URI: 🖐️ used
 - Process and tools
@@ -163,10 +163,10 @@
   - Refactoring: 🙋 explained
   - Code review: 🙋 explained
   - Exception
-  - Unittesting
+  - Unittesting: 🙋 explained
   - git: 📢 talked
-  - Github: 🖐️ used
-  - Docker: 🖐️ used
+  - Github: 📢 talked
+  - Docker: 🙋 explained
   - Kubernetes: 👂 heard
   - GCC: 🖐️ used
   - LLVM
@@ -202,7 +202,7 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
+  - Bytecode: 🖐️ used
   - V8
   - VJM: 🖐️ used
   - CLR
@@ -214,8 +214,8 @@
   - Ring
   - Virtual memory: 🎓 known
   - File system: 🎓 known
-  - Linux: 🖐️ used
-  - Unix: 🖐️ used
+  - Linux: 🙋 explained
+  - Unix: 🙋 explained
   - BSD
   - MacOS: 🎓 known
   - Windows: 🖐️ used

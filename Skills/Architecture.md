@@ -18,10 +18,10 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 👂 heard
+  - Quality: 👂 heard
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer: 🎓 known
@@ -64,17 +64,17 @@
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
+  - System design: 👂 heard
   - Process modelling
   - Data modelling
   - Solution components
-  - Risk assessment
+  - Risk assessment: 🖐️ used
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
   - Low-code: 👂 heard
   - No-code: 👂 heard
-  - Metric
+  - Metric: 👂 heard
   - Metric abuse
   - ACID
   - CAP theorem
@@ -87,7 +87,7 @@
   - Enterprise capabilities
   - Project scope: 🎓 known
   - Enterprise service bus
-  - Service-oriented architecture
+  - Service-oriented architecture: 👂 heard
   - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
@@ -95,6 +95,6 @@
   - Business Intelligence
   - OLAP
   - OLTP
-  - Conways Law
-  - Quality assurance
-  - Engineering Hygiene
+  - Conways Law: 👂 heard
+  - Quality assurance: 👂 heard
+  - Engineering Hygiene: 👂 heard

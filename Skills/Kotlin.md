@@ -3,42 +3,42 @@
 - Language
   - Variables: 🙋 explained
   - Primitive types: 🙋 explained
-  - Unsigned types: 🖐️ used
-  - Nullable types: 🖐️ used
-  - Non-nullable types: 🖐️ used
+  - Unsigned types: 🙋 explained
+  - Nullable types: 🙋 explained
+  - Non-nullable types: 🙋 explained
   - `String`: 🙋 explained
-  - `Any`: 🖐️ used
-  - `Unit`: 🖐️ used
+  - `Any`: 🙋 explained
+  - `Unit`: 🙋 explained
   - Mapping to Java types: 🖐️ used
-  - Arithmetic operators: 🖐️ used
-  - Boolean operators: 🖐️ used
-  - Complex conditions: 🖐️ used
-  - Conditional operators: 🖐️ used
-  - Elvis operator `?:`: 🖐️ used
-  - Safe call opearator `?.`: 🖐️ used
+  - Arithmetic operators: 🙋 explained
+  - Boolean operators: 🙋 explained
+  - Complex conditions: 🙋 explained
+  - Conditional operators: 🙋 explained
+  - Elvis operator `?:`: 🙋 explained
+  - Safe call opearator `?.`: 🙋 explained
   - `for` loop: 🙋 explained
   - `while...do` loop: 🙋 explained
   - `do...while` loop: 🙋 explained
   - `forEach{...}`: 🙋 explained
-  - `forEachInIndexed{...}`: 🎓 known
+  - `forEachInIndexed{...}`: 🖐️ used
   - `Arrays<T>`: 🙋 explained
   - Primitive arrays: 🙋 explained
-  - Log & Debug: `stdout`: 🎓 known
-  - Log & Debug: `stderr`: 🎓 known
+  - Log & Debug: `stdout`: 🖐️ used
+  - Log & Debug: `stderr`: 🖐️ used
   - Log & Debug: Breakpoints: 🖐️ used
   - Log & Debug: Step-by-step running: 🖐️ used
-  - Exceptions: 🖐️ used
+  - Exceptions: 🙋 explained
   - Errors: 🖐️ used
-  - `try...catch`: 🖐️ used
-  - Nothing type
-  - `List`: 🖐️ used
-  - `MutableList`: 🖐️ used
-  - `Set`: 🖐️ used
-  - `MutableSet`: 🖐️ used
-  - `Map`: 🖐️ used
-  - `MutableMap`: 🖐️ used
-  - `Collection`: 🖐️ used
-  - `Iterable`: 🖐️ used
+  - `try...catch`: 🙋 explained
+  - Nothing type: 👂 heard
+  - `List`: 🙋 explained
+  - `MutableList`: 🙋 explained
+  - `Set`: 🙋 explained
+  - `MutableSet`: 🙋 explained
+  - `Map`: 🙋 explained
+  - `MutableMap`: 🙋 explained
+  - `Collection`: 🙋 explained
+  - `Iterable`: 🙋 explained
   - `Ranges`: 🎓 known
   - `Sequences`: 🎓 known
   - Functions: Arguments: 🙋 explained
@@ -49,7 +49,7 @@
   - Functions: Extension functions: 👂 heard
   - Functions: Inline functions: 🖐️ used
   - Functions: Infix functions: 👂 heard
-  - Recursion: Recursive functions: 🎓 known
+  - Recursion: Recursive functions: 🖐️ used
   - Recursion: StackOverFlowError: 🖐️ used
   - Recursion: `Tailrec` functions
   - Constructors: 🙋 explained
@@ -63,32 +63,32 @@
   - References: 🖐️ used
   - Muttable & immutable classes: 🎓 known
   - Enum classes: 🖐️ used
-  - Class `Any`: 🎓 known
-  - Operator overloading: 🎓 known
+  - Class `Any`: 🖐️ used
+  - Operator overloading: 🖐️ used
   - Data classes: 🖐️ used
   - Packages: 🖐️ used
   - Type aliases: 👂 heard
   - Import aliases: 🎓 known
   - Value classes: 👂 heard
 - OOP
-  - Abstract classes: 🖐️ used
-  - Abstract method: 🖐️ used
-  - Abstract property: 🖐️ used
-  - Interface: 🖐️ used
+  - Abstract classes: 🙋 explained
+  - Abstract method: 🙋 explained
+  - Abstract property: 🙋 explained
+  - Interface: 🙋 explained
   - Closed class: 🖐️ used
-  - Open class: 🖐️ used
-  - Open method: 🖐️ used
-  - Open property: 🖐️ used
-  - Nested class: 🖐️ used
-  - Inner class: 🖐️ used
-  - `public`: 🖐️ used
-  - `protected`: 🖐️ used
+  - Open class: 🙋 explained
+  - Open method: 🙋 explained
+  - Open property: 🙋 explained
+  - Nested class: 🙋 explained
+  - Inner class: 🙋 explained
+  - `public`: 🙋 explained
+  - `protected`: 🙋 explained
   - `internal`: 🖐️ used
-  - `private`: 🖐️ used
+  - `private`: 🙋 explained
   - Sealed class
   - Sealed interface
   - Unsafe class operator `as`: 🖐️ used
-  - Safe class operator `as?`: 🖐️ used
+  - Safe class operator `as?`: 🙋 explained
   - Type check operators `is` & `!is`: 👂 heard
   - Smart cast: 👂 heard
   - Delegation: `lazy`: 🖐️ used
@@ -113,9 +113,9 @@
 - Functional programming
   - Lambda declaration: 🖐️ used
   - Lambda instantiation: 🎓 known
-  - Invoking lambdas: 🎓 known
-  - Functional Interfaces: 🎓 known
-  - Callable references: 🎓 known
+  - Invoking lambdas: 🖐️ used
+  - Functional Interfaces: 🖐️ used
+  - Callable references: 🖐️ used
   - `noinline`
   - `crossinline`
   - Scoped functions: `with`
@@ -127,8 +127,8 @@
   - Custom scope functions
 - Input\Output Streams
   - `readLine`: 🙋 explained
-  - `readIn`
-  - `readInOrNull`
+  - `readIn`: 🙋 explained
+  - `readInOrNull`: 🙋 explained
   - `Scanner`: 🙋 explained
   - `ByteArrayOutputStream`: 🙋 explained
   - `ByteArrayInputStream`: 🙋 explained
@@ -151,13 +151,13 @@
   - `Thread`: 🙋 explained
   - `ExecutorServices`: 👂 heard
   - Synchronizations: 🙋 explained
-  - Atomic types: 👂 heard
-  - Atomic operations: 👂 heard
+  - Atomic types: 🖐️ used
+  - Atomic operations: 🖐️ used
   - Dead locks: 🖐️ used
   - Race conditions: 👂 heard
   - Live locks
   - Starvation: 🎓 known
-  - Synchronized collections
+  - Synchronized collections: 🎓 known
   - `runBlocking`
   - `launch`: 🎓 known
   - `async`: 🖐️ used
@@ -168,7 +168,7 @@
   - `Job`: 👂 heard
   - `Name`
   - `CorutineExceptionHandler`: 👂 heard
-  - Coroutine Scope: 👂 heard
+  - Coroutine Scope: 🎓 known
   - Cancellation & Timeouts
   - `withContext{...}` function
   - `suspendCancellableCoroutine{...}` function
