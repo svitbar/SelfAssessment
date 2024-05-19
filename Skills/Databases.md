@@ -1,12 +1,12 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types ~
   - Performance tuning
   - Migrations: 🎓 known
   - Schema versioning
   - Backup and recovery
-  - Database scalability
+  - Database scalability ~
   - Relational databases: 🖐️ used
   - Key-value store
   - Tuple store
@@ -29,8 +29,8 @@
   - Foreign keys: 🖐️ used
   - Transactions: 👂 heard
   - Views
-  - Subqueries
-  - Stored procedures
+  - Subqueries ~
+  - Stored procedures ~
   - SQL functions: 👂 heard
   - Materialized views
   - Replications
@@ -81,9 +81,9 @@
   - Memcached
   - Riak
   - DB2
-  - SQLite: 🖐️ used
+  - SQLite !
   - DynamoDB
-  - Firebase
+  - Firebase *
 - Data engineering
   - Data warehousing
   - Business intelligence

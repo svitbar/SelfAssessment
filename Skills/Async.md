@@ -13,13 +13,13 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions
-  - Dead locks: 🖐️ used
+  - Race conditions ~
+  - Dead locks !
   - Live locks
-  - Concurrent programming: 🎓 known
-  - Parallel programming: 🎓 known
-  - Actor Model
-  - Thread: 🖐️ used
+  - Concurrent programming *
+  - Parallel programming *
+  - Actor Model ~
+  - Thread !
   - Process: 🖐️ used
 - Async contracts
   - Callbacks: 🖐️ used
@@ -32,13 +32,13 @@
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event *
   - Coroutine: 🎓 known
   - Goroutine
-  - Signal
+  - Signal *
   - Stream: 🖐️ used
-  - Chain of responsibility
-  - Middleware
+  - Chain of responsibility ~
+  - Middleware ~
   - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify

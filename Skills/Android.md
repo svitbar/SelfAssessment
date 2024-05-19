@@ -3,116 +3,116 @@
 - Android Basics
   - Android Studio: 🖐️ used
   - Android project structure: 🖐️ used
-  - Activity lifecycle: 🖐️ used
-  - Fragments: 🖐️ used
-  - Intents: 🖐️ used
-  - Views and ViewGroups: 🖐️ used
-  - Layout: LinearLayout: 🖐️ used
-  - Layout: RelativeLayout: 🖐️ used
-  - Layout: ConstraintLayout: 🖐️ used
-  - Layout: FrameLayout: 🖐️ used
+  - Activity lifecycle !
+  - Fragments !
+  - Intents !
+  - Views and ViewGroups !
+  - Layout: LinearLayout !
+  - Layout: RelativeLayout !
+  - Layout: ConstraintLayout !
+  - Layout: FrameLayout !
   - Layout: TableLayout: 🎓 known
-  - Resources: res/values: 🖐️ used
-  - Resources: strings.xml: 🖐️ used
-  - Resources: colors.xml: 🖐️ used
-  - Resources: styles.xml: 🎓 known
-  - R class: 🖐️ used
+  - Resources: res/values !
+  - Resources: strings.xml !
+  - Resources: colors.xml !
+  - Resources: styles.xml *
+  - R class !
 - User Interface (UI)
-  - XML layout files: 🖐️ used
-  - TextView: 🖐️ used
-  - EditText: 🖐️ used
-  - Button: 🖐️ used
-  - ImageView: 🖐️ used
-  - RecyclerView: 🖐️ used
-  - ListView: 🎓 known
-  - ScrollView: 🖐️ used
-  - CardView: 🖐️ used
-  - AppBar: 🖐️ used
-  - Custom views: 👂 heard
-  - Material Design components
-  - Themes and styles: 👂 heard
-  - Animations and transitions: 👂 heard
+  - XML layout files !
+  - TextView !
+  - EditText !
+  - Button !
+  - ImageView !
+  - RecyclerView !
+  - ListView *
+  - ScrollView !
+  - CardView !
+  - AppBar !
+  - Custom views +
+  - Material Design components +
+  - Themes and styles *
+  - Animations and transitions *
 - Intents and Broadcast Receivers
   - Explicit intents: 🖐️ used
-  - Implicit intents: 👂 heard
+  - Implicit intents +
   - Passing data between activities: 🖐️ used
   - Starting activities for result: 🖐️ used
-  - LocalBroadcastManager
+  - LocalBroadcastManager ~
   - System broadcasts
   - Custom broadcasts
 - Data Storage
-  - SharedPreferences
-  - Internal storage
-  - External storage
-  - SQLite database: 🖐️ used
-  - Room persistence library
-  - Content providers
+  - SharedPreferences !
+  - Internal storage !
+  - External storage !
+  - SQLite database !
+  - Room persistence library ~
+  - Content providers ~
 - Networking
-  - HttpURLConnection
-  - OkHttp
-  - Retrofit
-  - JSON parsing
-  - JSONObject
+  - HttpURLConnection *
+  - OkHttp +
+  - Retrofit +
+  - JSON parsing +
+  - JSONObject ~
   - Gson
   - AsyncTask: 👂 heard
   - Threading: 👂 heard
-  - Background services: 👂 heard
+  - Background services +
 - Services and Background Tasks
-  - Service lifecycle
-  - IntentService
-  - JobScheduler
-  - WorkManager
-  - BroadcastReceiver
-  - AlarmManager
-  - Foreground services
+  - Service lifecycle +
+  - IntentService +
+  - JobScheduler ~
+  - WorkManager ~
+  - BroadcastReceiver ~
+  - AlarmManager +
+  - Foreground services ~
 - Permissions
-  - Runtime permissions
-  - Permission groups
-  - Checking and requesting permissions
+  - Runtime permissions *
+  - Permission groups ~
+  - Checking and requesting permissions *
 - Multimedia
-  - Playing audio
-  - Playing video
-  - Recording audio
-  - Camera API
-  - ExoPlayer
+  - Playing audio *
+  - Playing video *
+  - Recording audio ~
+  - Camera API +
+  - ExoPlayer *
 - Location and Maps
   - Google Maps API: 👂 heard
   - Location services: 👂 heard
   - Geocoding and reverse geocoding
   - Geofencing
 - Notifications
-  - Notification channels
-  - Building notifications
-  - Notification actions
+  - Notification channels ~
+  - Building notifications ~
+  - Notification actions ~
   - Notification styles
   - Heads-up notifications
 - Firebase Integration
-  - Firebase Authentication
-  - Firebase Realtime Database
+  - Firebase Authentication *
+  - Firebase Realtime Database *
   - Cloud Firestore
-  - Firebase Cloud Messaging
-  - Firebase Analytics
+  - Firebase Cloud Messaging ~
+  - Firebase Analytics ~
   - Firebase Crashlytics
-  - Firebase Storage
+  - Firebase Storage ~
 - Testing
   - Unit testing with JUnit: 👂 heard
   - UI testing with Espresso
   - Mocking with Mockito: 👂 heard
   - Robolectric
 - Jetpack Libraries
-  - ViewModel: 🎓 known
+  - ViewModel *
   - LiveData: 🖐️ used
   - Data Binding: 🖐️ used
   - Navigation component: 🎓 known
   - Paging library
-  - Room
+  - Room ~
   - CameraX
 - Advanced Topics
-  - Architecture components: MVVM
-  - Architecture components: MVI
-  - Architecture components: MVP
+  - Architecture components: MVVM *
+  - Architecture components: MVI +
+  - Architecture components: MVP +
   - ProGuard and R8
   - Performance optimization
-  - App bundles: 👂 heard
+  - App bundles *
   - Custom ROMs and rooting
-  - Dependency Injection: 👂 heard
+  - Dependency Injection *
